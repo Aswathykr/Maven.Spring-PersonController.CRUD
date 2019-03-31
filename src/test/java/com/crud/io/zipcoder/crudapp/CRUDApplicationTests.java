@@ -1,4 +1,4 @@
-package io.zipcoder.crudapp;
+package com.crud.io.zipcoder.crudapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
